@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<form method="post">
+	<p>Email:<input name="email" type="text">
+	Password:<input name="password" id="pass" type="password">
+	<input class="bt" type="submit"  value="Entra">
+	</p>
+</form>

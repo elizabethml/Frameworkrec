@@ -1,0 +1,3 @@
+enarbona_mydb
+enarbona_admin
+adminadmin
